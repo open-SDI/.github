@@ -15,7 +15,7 @@ We hope that this technology will facilitate distributed intelligent services am
 
 Related materials are as follows.
 > # Research and Development Goals
-![sdi_intro](https://github.com/user-attachments/assets/a3087956-e8c8-413f-8df7-393fb3956c8d)
+![sdi_intro](https://github.com/user-attachments/assets/14f11698-9a85-4d5c-8d81-c0ad3df73019)
 
 > # Challenges
 1. SDI may deliver effective, large-scale mobility services by segmenting AI applications through SDI platforms

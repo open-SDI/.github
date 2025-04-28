@@ -22,5 +22,5 @@ Related materials are as follows.
 2. SDI may perform an independent IaC process to respond to collaborative scenarios for real-time and dynamically changing devices
 3. SDI may distribute and execute device-infrastructure code that is the result of the IaC process in conjunction with device-edge-cloud
    
-![20240722_140526](https://github.com/user-attachments/assets/b5982a14-b0f9-4d21-add1-cc591210718f)
+![sdi_Achievement](https://github.com/user-attachments/assets/20b7be67-4c49-4e90-87d5-490eeeaf3b1a)
 
